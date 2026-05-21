@@ -68,10 +68,4 @@ documentation so the files are easier to identify and reuse.
 | `sex` | categorical | `Male` or `Female`. |
 | `age` | categorical | Age band: `(70, 80]`, `(80, 90]`, or `(90, 110]`. |
 
-## Notes for reuse
 
-- The hosted CSV files are byte-identical to the corresponding files in the
-  reference `TIHM_Dataset` package.
-- Patient identifiers are pseudonymous hash codes.
-- This README documents the hosted copy; consult the DOI above for the original
-  publication context and citation.
