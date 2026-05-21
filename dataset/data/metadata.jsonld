@@ -1,0 +1,15 @@
+{
+  "@context": {
+    "schema":   "https://schema.org/",
+    "dcat":     "http://www.w3.org/ns/dcat#",
+    "dcterms":  "http://purl.org/dc/terms/",
+    "prov":     "http://www.w3.org/ns/prov#",
+    "foaf":     "http://xmlns.com/foaf/0.1/"
+  },
+  "@id":   "https://w3id.org/fair-hackathon/tihm/v1",
+  "@type": ["dcat:Dataset", "schema:Dataset"],
+  "dcterms:identifier": "https://w3id.org/fair-hackathon/tihm/v1",
+  "schema:identifier": "https://w3id.org/fair-hackathon/tihm/v1",
+  "dcterms:language": "en",
+  "dcterms:accessRights": "http://publications.europa.eu/resource/authority/access-right/PUBLIC"
+}

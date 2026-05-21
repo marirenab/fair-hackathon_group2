@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+         xmlns:dcat="http://www.w3.org/ns/dcat#"
+         xmlns:dcterms="http://purl.org/dc/terms/"
+         xmlns:foaf="http://xmlns.com/foaf/0.1/"
+         xmlns:prov="http://www.w3.org/ns/prov#">
+  <dcat:Dataset rdf:about="https://w3id.org/fair-hackathon/tihm/v1">
+    <dcterms:identifier>https://w3id.org/fair-hackathon/tihm/v1</dcterms:identifier>
+    <dcterms:language>en</dcterms:language>
+    <dcterms:accessRights rdf:resource="http://publications.europa.eu/resource/authority/access-right/PUBLIC"/>
+  </dcat:Dataset>
+</rdf:RDF>
