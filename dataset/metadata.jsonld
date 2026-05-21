@@ -18,7 +18,7 @@
   "dcterms:description": "TIHM is an open in-home remote-monitoring dataset for People Living with Dementia (PLWD), comprising per-patient time-series of activity, sleep, physiology, demographics and clinical labels collected between 2019-04-01 and 2019-06-30 by the UK DRI Care Research & Technology Centre.",
   "schema:description":  "TIHM is an open in-home remote-monitoring dataset for People Living with Dementia (PLWD), comprising per-patient time-series of activity, sleep, physiology, demographics and clinical labels collected between 2019-04-01 and 2019-06-30 by the UK DRI Care Research & Technology Centre.",
   "dcterms:issued":   "2023-02-10",
-  "dcterms:modified": "2026-05-20",
+  "dcterms:modified": "2026-05-21",
   "dcterms:language": "en",
   "dcterms:publisher": {
     "@type": "foaf:Organization",

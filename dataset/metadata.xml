@@ -9,7 +9,72 @@
     <dcterms:title xml:lang="en">TIHM: An open dataset for remote healthcare monitoring in dementia</dcterms:title>
     <dcterms:description xml:lang="en">TIHM is an open in-home remote-monitoring dataset for People Living with Dementia (PLWD), comprising per-patient time-series of activity, sleep, physiology, demographics and clinical labels collected between 2019-04-01 and 2019-06-30 by the UK DRI Care Research &amp; Technology Centre.</dcterms:description>
     <dcterms:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2023-02-10</dcterms:issued>
-    <dcterms:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2026-05-20</dcterms:modified>
+    <dcterms:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2026-05-21</dcterms:modified>
+    <dcterms:creator>
+      <foaf:Person>
+        <foaf:name>Francesca Palermo</foaf:name>
+      </foaf:Person>
+    </dcterms:creator>
+    <dcterms:creator>
+      <foaf:Person>
+        <foaf:name>Yu Chen</foaf:name>
+      </foaf:Person>
+    </dcterms:creator>
+    <dcterms:creator>
+      <foaf:Person>
+        <foaf:name>Alexander Capstick</foaf:name>
+      </foaf:Person>
+    </dcterms:creator>
+    <dcterms:creator>
+      <foaf:Person>
+        <foaf:name>Nan Fletcher-Loyd</foaf:name>
+      </foaf:Person>
+    </dcterms:creator>
+    <dcterms:creator>
+      <foaf:Person>
+        <foaf:name>Chloe Walsh</foaf:name>
+      </foaf:Person>
+    </dcterms:creator>
+    <dcterms:creator>
+      <foaf:Person>
+        <foaf:name>Samaneh Kouchaki</foaf:name>
+      </foaf:Person>
+    </dcterms:creator>
+    <dcterms:creator>
+      <foaf:Person>
+        <foaf:name>Jessica True</foaf:name>
+      </foaf:Person>
+    </dcterms:creator>
+    <dcterms:creator>
+      <foaf:Person>
+        <foaf:name>Olga Balazikova</foaf:name>
+      </foaf:Person>
+    </dcterms:creator>
+    <dcterms:creator>
+      <foaf:Person>
+        <foaf:name>Eyal Soreq</foaf:name>
+      </foaf:Person>
+    </dcterms:creator>
+    <dcterms:creator>
+      <foaf:Person>
+        <foaf:name>Gregory Scott</foaf:name>
+      </foaf:Person>
+    </dcterms:creator>
+    <dcterms:creator>
+      <foaf:Person>
+        <foaf:name>Helen Rostill</foaf:name>
+      </foaf:Person>
+    </dcterms:creator>
+    <dcterms:creator>
+      <foaf:Person>
+        <foaf:name>Ramin Nilforooshan</foaf:name>
+      </foaf:Person>
+    </dcterms:creator>
+    <dcterms:creator>
+      <foaf:Person>
+        <foaf:name>Payam Barnaghi</foaf:name>
+      </foaf:Person>
+    </dcterms:creator>
     <dcterms:language>en</dcterms:language>
     <dcterms:publisher>
       <foaf:Organization>
